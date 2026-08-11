@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 7
 ---
 
-Copyright @ 2023 [DevConseil]
+Copyright @ 2026 [DevConseil]
 
 
 
