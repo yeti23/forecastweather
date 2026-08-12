@@ -1,23 +1,15 @@
 ---
 layout: page
-title: Exercises
+title: Import route
 permalink: /import/
 nav_order: 2
 ---
 # IMPORTER UN PARCOURS
 
-First you need to import a session.
+Vous pouvez importer des fichiers aux formats GPX ou FIT. Sous iPhone et iPad, vous pouvez importer des parcours présents dans Apple Fitness. Utiliser le bouton “+”
 
 ![]({{ site.baseurl }}/assets/images/Import.png)
 
-All imported sessions appear in the *Exercises* view. 
+Les exercices d’Apple Fitness peuvent être importé à condition qu’ils possèdent un tracé.
 
-![]({{ site.baseurl }}/assets/images/ExercisesList.png)
-
-By selecting a session, the detail view displays a graph showing the intensities to be worked on.
-
-![]({{ site.baseurl }}/assets/images/ExerciseDetail.png)
-
-*Exercise detail* presents a new view containing interval details.
-
-![]({{ site.baseurl }}/assets/images/ExerciseDetailGraphManager.png)
+![]({{ site.baseurl }}/assets/images/Import_fitness.png)
