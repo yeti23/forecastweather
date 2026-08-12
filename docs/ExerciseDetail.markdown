@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Route detail
-permalink: /routedetail/
+permalink: /Exercisedetail/
 nav_order: 4
 ---
 # IMPORTER UN PARCOURS

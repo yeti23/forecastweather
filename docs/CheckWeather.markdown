@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Import route
-permalink: /import/
-nav_order: 2
+title: Check weather
+permalink: /checkweather/
+nav_order: 5
 ---
 # IMPORTER UN PARCOURS
 

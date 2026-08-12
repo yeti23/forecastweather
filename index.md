@@ -14,6 +14,6 @@ A macOS, an iPhone, or an iPad with minimum version 26.
 Forecast weather vous permet de créer des parcours, ou de les importer. Vous pouvez ensuite vérifier la météo sur la totalité du parcours et vérifier la difficulté avec le dénivelé.
 
 # How it works?
-1. ![alt text]({{ site.baseurl }}/assets/images/icon/bicycle.circle.png) Importer un parcours au format GPX ou FIT, sinon tracer un parcours.
+1. ![alt text]({{ site.baseurl }}/assets/images/icon/plus.png) Importer un parcours au format GPX ou FIT, sinon tracer un parcours.
 2. ![alt text]({{ site.baseurl }}/assets/images/icon/calendar.png) Planifier votre sortie et vérifier les données météos
 3. ![alt text]({{ site.baseurl }}/assets/images/icon/cloud.sun.png) Analyser la météo du tous le parcours : vitesse et direction du vent, le risque de précipitation entre l’heure de départ et l’heure d’arrivée.
