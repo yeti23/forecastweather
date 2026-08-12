@@ -8,22 +8,22 @@ nav_order: 3
 
 Forecast weather permet de tracer une route puis de la sauvegarder.
 
-![]({{ site.baseurl }}/assets/images/route-create.png)
+![]({{ site.baseurl }}/assets/images/Route-create.png)
 
 ## Point de départ
 Vous renseigner l’adresse de départ.
 
-![]({{ site.baseurl }}/assets/images/route-new.png)
+![]({{ site.baseurl }}/assets/images/Route-new.png)
 
 ## Comment rajouter un point
 Il suffit de toucher une route (ou un clic) pour que la route ce trace et place le point final.
 
-![]({{ site.baseurl }}/assets/images/route-point.png)
+![]({{ site.baseurl }}/assets/images/Route-point.png)
 
 ## Les options
 On top: Save, Cancel, Out & back, Close loop
 
-![]({{ site.baseurl }}/assets/images/route-topbutton.png)
+![]({{ site.baseurl }}/assets/images/Route-topbutton.png)
 
 1. Save: save current route to Forecast weather;
 2. Cancel: cancel current route;
@@ -32,7 +32,7 @@ On top: Save, Cancel, Out & back, Close loop
 
 On the map: Undo, center the map, view elevation
 
-![]({{ site.baseurl }}/assets/images/route-mapbutton.png)
+![]({{ site.baseurl }}/assets/images/Route-mapbutton.png)
 
 ## Trace info
 Le temps estimé est un temps calculé réalisable sur une randonnée en vélo.
