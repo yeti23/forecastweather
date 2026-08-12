@@ -4,20 +4,27 @@ title: Route detail
 permalink: /Exercisedetail/
 nav_order: 4
 ---
-# IMPORTER UN PARCOURS
+# Exercise detail
 
-First you need to import a session.
+Forecast Weather suit Mac propose une liste d’options en haut de la carte.
 
-![]({{ site.baseurl }}/assets/images/Import.png)
+![]({{ site.baseurl }}/assets/images/Detailexercice-boutonMac.png)
 
-All imported sessions appear in the *Exercises* view. 
+- ![alt text]({{ site.baseurl }}/assets/images/icon/cloud.sun.png) Visualisation des prévisions météo
+- ![alt text]({{ site.baseurl }}/assets/images/icon/chart-icon.png) Affiche des prévisions météo sous forme graphique
+- ![alt text]({{ site.baseurl }}/assets/images/icon/map.png) Affichage de la carte en mode standard ou satellite
+- ![alt text]({{ site.baseurl }}/assets/images/icon/center-carte.png) Centre le parcours sur la carte
+- ![alt text]({{ site.baseurl }}/assets/images/icon/info.png) Information sur le parcours (distance, élévation, temps estimé, moyenne)
 
-![]({{ site.baseurl }}/assets/images/ExercisesList.png)
+Sur iPhone et iPad, les options sont différentes :
 
-By selecting a session, the detail view displays a graph showing the intensities to be worked on.
+![alt text]({{ site.baseurl }}/assets/images/Detailexercice-boutoniOS.png)
 
-![]({{ site.baseurl }}/assets/images/ExerciseDetail.png)
+- ![alt text]({{ site.baseurl }}/assets/images/icon/elevation.png) View elevation. Sur Mac faire “option E”
+- ![alt text]({{ site.baseurl }}/assets/images/icon/square.and.arrow.up.png) Export route to GPX format. Sur Mac aller sur le menu, puis File->Export file as GPX
 
-*Exercise detail* presents a new view containing interval details.
+## Visualiser l’élévation
+Le graphe de l’élévation affiche aussi pour chaque minute la distance, l’élévation, et la pente.
 
-![]({{ site.baseurl }}/assets/images/ExerciseDetailGraphManager.png)
+![alt text]({{ site.baseurl }}/assets/images/Detailexercice-elevation.png) View elevation.
+Sur Mac faire “option E”

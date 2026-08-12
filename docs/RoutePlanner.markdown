@@ -4,20 +4,37 @@ title: Route planner
 permalink: /routeplanner/
 nav_order: 3
 ---
-# IMPORTER UN PARCOURS
+# Créer un parcours
 
-First you need to import a session.
+Forecast weather permet de tracer une route puis de la sauvegarder.
 
-![]({{ site.baseurl }}/assets/images/Import.png)
+![]({{ site.baseurl }}/assets/images/route-create.png)
 
-All imported sessions appear in the *Exercises* view. 
+## Point de départ
+Vous renseigner l’adresse de départ.
 
-![]({{ site.baseurl }}/assets/images/ExercisesList.png)
+![]({{ site.baseurl }}/assets/images/route-new.png)
 
-By selecting a session, the detail view displays a graph showing the intensities to be worked on.
+## Comment rajouter un point
+Il suffit de toucher une route (ou un clic) pour que la route ce trace et place le point final.
 
-![]({{ site.baseurl }}/assets/images/ExerciseDetail.png)
+![]({{ site.baseurl }}/assets/images/route-point.png)
 
-*Exercise detail* presents a new view containing interval details.
+## Les options
+On top: Save, Cancel, Out & back, Close loop
 
-![]({{ site.baseurl }}/assets/images/ExerciseDetailGraphManager.png)
+![]({{ site.baseurl }}/assets/images/route-topbutton.png)
+
+1. Save: save current route to Forecast weather;
+2. Cancel: cancel current route;
+3. Out & back: reverse route to start point;
+4. Close loop: find a route to start point.
+
+On the map: Undo, center the map, view elevation
+
+![]({{ site.baseurl }}/assets/images/route-mapbutton.png)
+
+## Trace info
+Le temps estimé est un temps calculé réalisable sur une randonnée en vélo.
+
+![]({{ site.baseurl }}/assets/images/Route-tracedetail.png)

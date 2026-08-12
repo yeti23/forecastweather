@@ -4,21 +4,32 @@ title: Check weather
 permalink: /checkweather/
 nav_order: 5
 ---
-# IMPORTER UN PARCOURS
+# Check the weather
 
-Vous pouvez importer des fichiers aux formats GPX ou FIT. Sous iPhone et iPad, vous pouvez importer des parcours présents dans Apple Fitness. Utiliser le bouton “+”
+Forecast weather récupère les données d’une journée. Vous devez renseigner la date et heure de départ, puis l’application afficher la température, la vitesse du vent, et la précipitation par heure.
 
-![]({{ site.baseurl }}/assets/images/Import.png)
+![]({{ site.baseurl }}/assets/images/weather-datetime.png)
 
-Les exercices d’Apple Fitness peuvent être importé à condition qu’ils possèdent un tracé.
+## Weather alerts
+Les alertes météo éventuelles sont affichées sous les prévisions horaires.
 
-![]({{ site.baseurl }}/assets/images/Import_fitness.png)
+![]({{ site.baseurl }}/assets/images/weather-alerts.png)
 
-Les exercices peuvent être visualisés sous forme de liste ou de tableau.
+## Recommandation météo
+Forecast weather fournit des recommandations sur la journée.
 
-[]({{ site.baseurl }}/assets/images/Exercise-icon.png)
-[]({{ site.baseurl }}/assets/images/Exercise-list.png)
+![]({{ site.baseurl }}/assets/images/weather-recommandation.png)<br>
+Cette option est disponible sur les appareils compatibles avec Apple Intelligence.
 
-Pour renommer, ajouter aux favoris ou supprimer un exercice, il suffit d’un appui long sur l’image ou d’un clic droit sur macOS.
+## Données météo sur tout le parcours
+En validant les prévisions de la journée, Forecast weather trace la direction du vent sur différents points sur la carte.
 
-![]({{ site.baseurl }}/assets/images/Exercise-rename.png)
+![]({{ site.baseurl }}/assets/images/weather-wind.png)<br>
+En sélectionnant un point, une vue s’affiche avec les informations suivantes :
+- L’heure d’arrivée sur la carte;
+- La distance parcourue;
+- La température prévue, et la température ressentie;
+- Le pourcentage de précipitations;
+- La vitesse du vent, devant, arrière, ou sur le côté.
+
+![]({{ site.baseurl }}/assets/images/weather-popup.png)

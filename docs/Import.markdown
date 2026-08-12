@@ -16,8 +16,8 @@ Les exercices d’Apple Fitness peuvent être importé à condition qu’ils pos
 
 Les exercices peuvent être visualisés sous forme de liste ou de tableau.
 
-[]({{ site.baseurl }}/assets/images/Exercise-icon.png)
-[]({{ site.baseurl }}/assets/images/Exercise-list.png)
+![]({{ site.baseurl }}/assets/images/Exercise-icon.png)
+![]({{ site.baseurl }}/assets/images/Exercise-list.png)
 
 Pour renommer, ajouter aux favoris ou supprimer un exercice, il suffit d’un appui long sur l’image ou d’un clic droit sur macOS.
 
