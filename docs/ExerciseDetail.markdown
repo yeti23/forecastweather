@@ -14,7 +14,7 @@ Forecast Weather suit Mac propose une liste d’options en haut de la carte.
 - ![alt text]({{ site.baseurl }}/assets/images/icon/chart-icon.png) Affiche des prévisions météo sous forme graphique
 - ![alt text]({{ site.baseurl }}/assets/images/icon/map.png) Affichage de la carte en mode standard ou satellite
 - ![alt text]({{ site.baseurl }}/assets/images/icon/center-carte.png) Centre le parcours sur la carte
-- ![alt text]({{ site.baseurl }}/assets/images/icon/info.png) Information sur le parcours (distance, élévation, temps estimé, moyenne)
+- ![alt text]({{ site.baseurl }}/assets/images/icon/Info.png) Information sur le parcours (distance, élévation, temps estimé, moyenne)
 
 Sur iPhone et iPad, les options sont différentes :
 
