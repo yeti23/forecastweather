@@ -6,7 +6,7 @@ nav_order: 5
 ---
 # Check the weather
 
-Forecast weather récupère les données d’une journée. Vous devez renseigner la date et heure de départ, puis l’application afficher la température, la vitesse du vent, et la précipitation par heure.
+Forecast weather récupère les données d’une journée. Vous devez renseigner la date et heure de départ, puis l’application affiche la température, la vitesse du vent, et la précipitation par heure.
 
 ![]({{ site.baseurl }}/assets/images/weather-datetime.png)
 

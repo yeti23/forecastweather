@@ -15,5 +15,5 @@ Forecast weather vous permet de créer des parcours, ou de les importer. Vous po
 
 # How it works?
 1. ![alt text]({{ site.baseurl }}/assets/images/icon/plus.png) Importer un parcours au format GPX ou FIT, sinon tracer un parcours.
-2. ![alt text]({{ site.baseurl }}/assets/images/icon/calendar.png) Planifier votre sortie et vérifier les données météos
-3. ![alt text]({{ site.baseurl }}/assets/images/icon/cloud.sun.png) Analyser la météo du tous le parcours : vitesse et direction du vent, le risque de précipitation entre l’heure de départ et l’heure d’arrivée.
+2. ![alt text]({{ site.baseurl }}/assets/images/icon/calendar.png) Planifier votre date et heure de départ, puis vérifier les données météo.
+3. ![alt text]({{ site.baseurl }}/assets/images/icon/cloud.sun.png) Analyser la météo sur tous le parcours : vitesse et direction du vent, le risque de précipitation entre l’heure de départ et l’heure d’arrivée.

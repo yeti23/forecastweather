@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Créer un parcours
 
-Forecast weather permet de tracer une route puis de la sauvegarder.
+Forecast weather permet de tracer une route puis de sauvegarder.
 
 ![]({{ site.baseurl }}/assets/images/Route-create.png)
 

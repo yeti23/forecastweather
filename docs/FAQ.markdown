@@ -30,4 +30,4 @@ nav_order: 6
     > Forecast weather n’est pas une application de Fitness ni de direction GPS.
     <br><br>
 - Can the ForecastWeather app be used to create exercises ?
-    > Oui, vous pouvez tracer une route, l’exporter au format GPX, puis l’importer vers une application Fitness pour un entraînement ou suivi GPS.
+    > Oui, vous pouvez tracer une route, l’exporter au format GPX, puis l’importer vers une application Fitness pour un entraînement ou un suivi GPS.
