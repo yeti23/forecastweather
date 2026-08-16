@@ -13,7 +13,8 @@ Forecast weather permet de tracer une route puis de sauvegarder.
 ## Point de départ
 Vous renseigner l’adresse de départ.
 
-![]({{ site.baseurl }}/assets/images/Route-new.png)
+![]({{ site.baseurl }}/assets/images/Route-new.png)<br>
+L’application récupère la latitude et la longitude pour placer le point de départ sur la carte.
 
 ## Comment rajouter un point
 Il suffit de toucher une route (ou un clic) pour que la route ce trace et place le point final.

@@ -27,4 +27,3 @@ Sur iPhone et iPad, les options sont différentes :
 Le graphe de l’élévation affiche aussi pour chaque minute la distance, l’élévation, et la pente.
 
 ![alt text]({{ site.baseurl }}/assets/images/Detailexercice-elevation.png) View elevation.
-Sur Mac faire “option E”
